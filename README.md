@@ -1,6 +1,6 @@
 # HW-1-explorer-
 
-[![Build Status](https://travis-ci.org/GolubDobra/HW-1-explorer.svg?branch=master)](https://travis-ci.org/GolubDobra/HW-1-explorer)
+[![Build Status](https://travis-ci.org/GolubDobra/HW-1-explorer-.svg?branch=master)](https://travis-ci.org/GolubDobra/HW-1-explorer-)
 
 - [X] Вычислить свою комбинацию;
 -     Вариант: 14(1110)
